@@ -4,20 +4,15 @@
   <h1>LLMGoat</h1>
   <p><strong>Offensive LLM Security Environment: Learn by Exploiting</strong></p>
 
-  <p>
-    <img src="https://img.shields.io/badge/OWASP-LLM%20Top%2010-red?style=flat-square" alt="OWASP LLM Top 10"/>
-    <img src="https://img.shields.io/badge/Python-3.12-blue?style=flat-square&logo=python" alt="Python 3.12"/>
-    <img src="https://img.shields.io/badge/LLM-Mistral%20%7C%20Ollama-purple?style=flat-square" alt="Mistral / Ollama"/>
-    <img src="https://img.shields.io/badge/status-active%20development-brightgreen?style=flat-square" alt="Status"/>
-  </p>
   
-  <a href="https://bsideskerala.in/speakers/2026/litesh-ghute/#:~:text=LLMGoat%3A%20Offensive%20LLM%20Security%20Environment">
-    <img src="https://img.shields.io/badge/🏆%20Featured%20At-BSides%20Kerala%202026-FF6600?style=flat-square" alt="Featured at BSides Kerala 2026"/>
-  </a>
-
-   <a href="https://blackhat.com/europe/arsenal/schedule/#llmgoat-offensive-llm-security-environment-54974">
-    <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Featured%20At-BlackHat%20Europe%202026-FF6600?style=flat-square" alt="Featuring at BlackHat Europe 2026"/>
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/OWASP-LLM%20Top%2010-red?style=flat-square" alt="OWASP LLM Top 10"/>
+  <img src="https://img.shields.io/badge/Python-3.12-blue?style=flat-square&logo=python" alt="Python 3.12"/>
+  <img src="https://img.shields.io/badge/LLM-Mistral%20%7C%20Ollama-purple?style=flat-square" alt="Mistral / Ollama"/>
+  <img src="https://img.shields.io/badge/status-active%20development-brightgreen?style=flat-square" alt="Status"/>
+  <a href="https://bsideskerala.in/speakers/2026/litesh-ghute/#:~:text=LLMGoat%3A%20Offensive%20LLM%20Security%20Environment"><img src="https://img.shields.io/badge/🏆%20Featured%20At-BSides%20Kerala%202026-D4AF37?style=flat-square" alt="Featured at BSides Kerala 2026"/></a>
+  <a href="https://blackhat.com/europe/arsenal/schedule/#llmgoat-offensive-llm-security-environment-54974"><img src="https://img.shields.io/badge/🏆%20Featured%20At-BlackHat%20Europe%202026-8A2BE2?style=flat-square" alt="Featured at BlackHat Europe 2026"/></a>
+</p>
 
   <p>
     <a href="https://www.youtube.com/watch?v=LFmyKLSi3aY">🎥 Watch Demo</a> •
@@ -180,6 +175,8 @@ Step-by-step walkthroughs are available for each challenge in the [solution-manu
 ## 🤝 Contributors
 
 - Litesh Ghute, Sr. Engineer (R&D), [LinkedIn](https://www.linkedin.com/in/liteshghute/) (Primary Developer)
+- Ashish Bhangale, Lead Security Researcher (R&D), [LinkedIn](https://www.linkedin.com/in/hax0rguy/)
+- G Khartheesvar, Sr. Engineer (R&D), [LinkedIn](https://www.linkedin.com/in/g-khartheesvar/)
 
 ---
 
