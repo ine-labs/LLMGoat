@@ -105,14 +105,14 @@ Open your browser at **http://127.0.0.1:8000** and start exploiting.
 
 > Ollama must be running on your **host machine** (do not run Ollama inside Docker). The container reaches it automatically via `host.docker.internal:11434`.
 
-**Step 1 — Start Ollama and pull Mistral on your host:**
+**Step 1: Start Ollama and pull Mistral on your host:**
 
 ```bash
 ollama serve
 ollama pull mistral
 ```
 
-**Step 2 — Build and run:**
+**Step 2: Build and run:**
 
 ```bash
 docker compose up --build
