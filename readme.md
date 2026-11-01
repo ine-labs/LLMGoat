@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LLM-Mistral%20%7C%20Ollama-purple?style=flat-square" alt="Mistral / Ollama"/>
     <img src="https://img.shields.io/badge/status-active%20development-brightgreen?style=flat-square" alt="Status"/>
   </p>
-
+  
   <a href="https://bsideskerala.in/speakers/2026/litesh-ghute/#:~:text=LLMGoat%3A%20Offensive%20LLM%20Security%20Environment">
     <img src="https://img.shields.io/badge/🏆%20Featured%20At-BSides%20Kerala%202026-FF6600?style=flat-square" alt="Featured at BSides Kerala 2026"/>
   </a>
@@ -78,7 +78,7 @@ LLMGoat lets you **safely exploit, observe, and measure** the impact of these at
 # LLM for inference
 ollama pull mistral
 
-# Embedding model (all-MiniLM-L6-v2) — downloaded automatically via gpt4all on first run
+# Embedding model (all-MiniLM-L6-v2): downloaded automatically via gpt4all on first run
 # No manual download needed
 ```
 
@@ -108,7 +108,7 @@ Open your browser at **http://127.0.0.1:8000** and start exploiting.
 
 ## 🐳 Docker Setup
 
-> Ollama must be running on your **host machine** — do not run Ollama inside Docker. The container reaches it automatically via `host.docker.internal:11434`.
+> Ollama must be running on your **host machine** (do not run Ollama inside Docker). The container reaches it automatically via `host.docker.internal:11434`.
 
 **Step 1 — Start Ollama and pull Mistral on your host:**
 
