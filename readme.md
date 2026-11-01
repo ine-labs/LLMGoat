@@ -11,8 +11,12 @@
     <img src="https://img.shields.io/badge/status-active%20development-brightgreen?style=flat-square" alt="Status"/>
   </p>
 
-  <a href="https://bsideskerala.in/">
-    <img src="https://img.shields.io/badge/🏆%20Featured%20At-BSides%20Kerala%202026-FF6600?style=for-the-badge" alt="Featured at BSides Kerala 2026"/>
+  <a href="https://bsideskerala.in/speakers/2026/litesh-ghute/#:~:text=LLMGoat%3A%20Offensive%20LLM%20Security%20Environment">
+    <img src="https://img.shields.io/badge/🏆%20Featured%20At-BSides%20Kerala%202026-FF6600?style=flat-square" alt="Featured at BSides Kerala 2026"/>
+  </a>
+
+   <a href="https://blackhat.com/europe/arsenal/schedule/#llmgoat-offensive-llm-security-environment-54974">
+    <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Featured%20At-BlackHat%20Europe%202026-FF6600?style=flat-square" alt="Featuring at BlackHat Europe 2026"/>
   </a>
 
   <p>
@@ -169,6 +173,12 @@ Step-by-step walkthroughs are available for each challenge in the [solution-manu
 | LLM08: Vector and Embedding Weakness | [View](./solution-manuals/vector-embedding-weakness.md) |
 | LLM09: Misinformation | [View](./solution-manuals/misinformation.md) |
 | LLM10: Unbounded Consumption | [View](./solution-manuals/unbounded-consumption.md) |
+
+---
+
+## 🤝 Contributors
+
+- Litesh Ghute, Sr. Engineer (R&D), [LinkedIn](https://www.linkedin.com/in/liteshghute/) (Primary Developer)
 
 ---
 
