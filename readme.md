@@ -36,7 +36,8 @@ LLMGoat lets you **safely exploit, observe, and measure** the impact of these at
 
 > **10 core challenges**, each mapped directly to the [OWASP LLM Top 10](https://owasp.org/www-project-top-10-for-large-language-model-applications/).
 
-#### 🏆 **Featured tool at [BSides Kerala 2026](https://bsideskerala.in/)**
+#### 🏆 **Featured tool at [BSides Kerala 2026](https://bsideskerala.in/speakers/2026/litesh-ghute/#:~:text=LLMGoat%3A%20Offensive%20LLM%20Security%20Environment)**
+#### 🏆 **Featured tool at [BlackHat Europe 2026](https://blackhat.com/europe/arsenal/schedule/#llmgoat-offensive-llm-security-environment-54974)**
 
 ---
 
