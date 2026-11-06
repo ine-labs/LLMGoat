@@ -21,6 +21,7 @@
   </p>
 </div>
 
+
 ---
 
 ## What is LLMGoat?
@@ -41,6 +42,10 @@ LLMGoat lets you **safely exploit, observe, and measure** the impact of these at
 [![LLMGoat Demo](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=LFmyKLSi3aY)
 
 ![LLMGoat Screenshot](./assets/asset1.png)
+
+<p align="center">
+  If LLMGoat helps you learn, give the project a ⭐
+</p>
 
 ---
 
